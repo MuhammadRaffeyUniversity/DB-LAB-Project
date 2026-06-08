@@ -62,7 +62,7 @@ VALUES
 INSERT INTO PAYMENT (method, card_details, order_id)
 VALUES (
     'JazzCash',
-    '0312-XXXXXXX',
+    '0312-4567890',
     1
 );
 
